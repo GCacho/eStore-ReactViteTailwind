@@ -8,3 +8,7 @@
 - npm install react-router-dom
 - npm run dev
 ~~~
+## API
+~~~
+- https://api.escuelajs.co/api/v1/products
+~~~
